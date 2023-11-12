@@ -1,9 +1,6 @@
-![MechaKeys logo on a pink horizontal background](https://raw.githubusercontent.com/MechaKeys/.github/main/profilebanner.png)
-
-MechaKeys is the most popular keyboard and mouse sound simulator for desktop. 
-It's powered by open-source, used, extended, and maintained by us.
+MechaKeys is the most popular keyboard and mouse sound simulator for desktop. At the heart of MechaKeys is the power of open-source software. We contribute to, maintain, and create 
 
 ## 👋 Say hi! 
-Get in touch with the community and team on [Discord](https://discord.robolab.io).
+Get in touch with the community and Robolab team on [Discord](https://discord.robolab.io).
 
-Learn more about MechaKeys and download it on the [MechaKeys website](https://mechakeys.robolab.io).
+Learn more about MechaKeys and download it on the [MechaKeys website](https://v2.robolab.io).
